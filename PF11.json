@@ -1,0 +1,9 @@
+{
+  "devices": {
+    "PF11": {
+      "version": "1.1",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/PF11/main/1.1.bin",
+      "force": false
+    }
+  }
+}
